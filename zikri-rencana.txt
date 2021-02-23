@@ -5,3 +5,4 @@
 - belajar struktur data
 - belajar javascript
 - belajar numpy
+- belajar pamdas
