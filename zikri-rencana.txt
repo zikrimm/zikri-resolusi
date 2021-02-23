@@ -3,3 +3,5 @@
   2. Portfolio
 - belajar aplikasi
 - belajar struktur data
+- belajar javascript
+- belajar numpy
