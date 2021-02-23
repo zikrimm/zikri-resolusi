@@ -1,2 +1,4 @@
 - Bikin web sederhana
+  1. Game kecil2an
+  2. Portfolio
 - belajar aplikasi
