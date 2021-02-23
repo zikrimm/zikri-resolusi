@@ -2,4 +2,7 @@
   1. Game kecil2an
   2. Portfolio
 - belajar aplikasi
-- belajar AI
+- belajar struktur data
+- belajar javascript
+- belajar numpy
+- belajar pamdas
